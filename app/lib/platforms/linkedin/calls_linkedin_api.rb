@@ -7,7 +7,7 @@ class Platforms::Linkedin
       options = {
         headers: {
           "Authorization" => "Bearer #{access_token}",
-          "LinkedIn-Version" => "202505",
+          "LinkedIn-Version" => "202605",
           "X-Restli-Protocol-Version" => "2.0.0"
         }
       }

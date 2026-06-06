@@ -13,7 +13,7 @@ http_interactions:
       Authorization:
       - Bearer fakeaccesstoken
       Linkedin-Version:
-      - '202505'
+      - '202605'
       X-Restli-Protocol-Version:
       - 2.0.0
       Content-Type:
